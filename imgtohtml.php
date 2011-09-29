@@ -229,9 +229,9 @@ $str = stripslashes($str);
         <td colspan=2><br /><b>Fun / Possibly Interesting Choices</b></td>
       </tr>
       <tr>
-        <td colspan=2><a href="http://mindphone.org/~liquid/imgtohtml.php?url=http%3A%2F%2Fwww.h6.dion.ne.jp%2F%7Ekoske%2Fukagaka%2Fsaimoe%2Fmagic_wand_tool.png">Anime or something</a><br />
-                               <a href="http://mindphone.org/~liquid/imgtohtml.php?str=W&url=http%3A%2F%2Fus.movies1.yimg.com%2Fmovies.yahoo.com%2Fimages%2Fhv%2Fphoto%2Fmovie_pix%2Fwarner_brothers%2Fconstantine%2Fmaynard_james_keenan%2Fconstantinepred.jpg">Yeehaw</a><br />
-                               <a href="http://mindphone.org/~liquid/imgtohtml.php?str=W&url=http%3A%2F%2Fastrogeology.usgs.gov%2Fassets%2Fwallpaper%2Fsun.jpg">Hot hot hot</a></td>
+        <td colspan=2><a href="?url=http%3A%2F%2Fwww.h6.dion.ne.jp%2F%7Ekoske%2Fukagaka%2Fsaimoe%2Fmagic_wand_tool.png">Anime or something</a><br />
+                               <a href="?str=W&url=http%3A%2F%2Fus.movies1.yimg.com%2Fmovies.yahoo.com%2Fimages%2Fhv%2Fphoto%2Fmovie_pix%2Fwarner_brothers%2Fconstantine%2Fmaynard_james_keenan%2Fconstantinepred.jpg">Yeehaw</a><br />
+                               <a href="?str=W&url=http%3A%2F%2Fastrogeology.usgs.gov%2Fassets%2Fwallpaper%2Fsun.jpg">Hot hot hot</a></td>
       </tr>
       <tr>
         <td colspan=2><br /><b>Source code</b></td>
